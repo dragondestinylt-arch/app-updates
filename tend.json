@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "0.3.0",
-    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.3.0/tend-0.3.0.apk",
-    "sha256":  "e71424b222256cd7c23f33edfca258942d9576cc5f3cd4241fba244c2eafa393",
-    "notes":  "Today\u0027s routine: pick tired, normal or energetic, and say how it went."
+    "versionCode":  4,
+    "versionName":  "0.3.1",
+    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.3.1/tend-0.3.1.apk",
+    "sha256":  "94a352c43568fcf1c0d7cfe550d3217b4df910ffd462acaf4c0650246654e2e5",
+    "notes":  "Standing desk break, standing and floor yoga, an In bed routine, clearer stick figures and easier instructions."
 }
