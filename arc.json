@@ -1,7 +1,7 @@
 {
-    "versionCode":  2,
-    "versionName":  "0.2",
-    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/arc-0.2/arc-0.2.apk",
-    "sha256":  "358835f25b7203b8e0377fab9a3d51b42ff6765148020f17633d33f8b1237772",
+    "versionCode":  3,
+    "versionName":  "0.2.1",
+    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/arc-0.2.1/arc-0.2.1.apk",
+    "sha256":  "a6216936cdd02e3da0daa4444d3401b7d17d5fb7c3faab09d6d3af0eae8c13df",
     "notes":  "The Needs page from Tend, and this update button."
 }
