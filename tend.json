@@ -1,0 +1,7 @@
+{
+    "versionCode":  2,
+    "versionName":  "0.2.0",
+    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.2.0/tend-0.2.0.apk",
+    "sha256":  "1cdf5b57150d648c5d7d4110eb6ebe6f946a11f128e21de13d7f096a44489c0c",
+    "notes":  "First version with the update button."
+}
