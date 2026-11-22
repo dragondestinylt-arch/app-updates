@@ -1,7 +1,7 @@
 {
-    "versionCode":  2,
-    "versionName":  "0.2.0",
-    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.2.0/tend-0.2.0.apk",
-    "sha256":  "1cdf5b57150d648c5d7d4110eb6ebe6f946a11f128e21de13d7f096a44489c0c",
-    "notes":  "First version with the update button."
+    "versionCode":  3,
+    "versionName":  "0.3.0",
+    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.3.0/tend-0.3.0.apk",
+    "sha256":  "e71424b222256cd7c23f33edfca258942d9576cc5f3cd4241fba244c2eafa393",
+    "notes":  "Today\u0027s routine: pick tired, normal or energetic, and say how it went."
 }
