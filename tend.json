@@ -1,7 +1,7 @@
 {
-    "versionCode":  5,
-    "versionName":  "0.4.0",
-    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.4.0/tend-0.4.0.apk",
-    "sha256":  "31b2a7b086d73dc59664180970758fb3c5a130b75abe0e8045b90c1ac1f8c0c0",
-    "notes":  "The cute look on every page: white cards, sticker icons, squishy buttons, lavender everywhere. Get dressed first line before a walk. Chore reminders stay quiet while paused."
+    "versionCode":  6,
+    "versionName":  "0.4.1",
+    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.4.1/tend-0.4.1.apk",
+    "sha256":  "a109cbea3e207d07c180acd66fadde5a6398ab2091737eaa559caa47d0ab1f34",
+    "notes":  "Rituals you do late can be ticked off right under Next up, on Home and Today."
 }
