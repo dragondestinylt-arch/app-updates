@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.4.1",
-    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.4.1/tend-0.4.1.apk",
-    "sha256":  "a109cbea3e207d07c180acd66fadde5a6398ab2091737eaa559caa47d0ab1f34",
-    "notes":  "Rituals you do late can be ticked off right under Next up, on Home and Today."
+    "versionCode":  7,
+    "versionName":  "0.4.2",
+    "apk":  "https://github.com/dragondestinylt-arch/app-updates/releases/download/tend-0.4.2/tend-0.4.2.apk",
+    "sha256":  "3837bab4e3c68479555d766089aff5d696fbc938594a2890326011155a480b0b",
+    "notes":  "Workouts now fill the Movement bar properly, and the Week tab shows your workouts with active minutes and calories."
 }
